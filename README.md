@@ -17,10 +17,15 @@ A **modern personal portfolio website** built with **Next.js**, **Tailwind CSS**
 ## ✨ Features
 
 ✅ Responsive Design – Fully optimized for all screens
+
 ✅ Modern UI/UX + Retro Touch – Powered by **Retro UI**
+
 ✅ Smooth Animations – Using **Framer Motion**
+
 ✅ Skill Showcase – Categorized tech stack with icons
+
 ✅ About & Contact Sections – Easy to connect
+
 ✅ Optimized Performance – Next.js best practices
 
 ---
@@ -60,7 +65,11 @@ Visit: **[http://localhost:3000](http://localhost:3000)**
 ## 📬 Contact Me
 
 📧 **Email:** [dominhnhat.030402@gmail.com](mailto:dominhnhat.030402@gmail.com)
+
+
 🔗 **LinkedIn:** [linkedin.com/in/nhatminhdo](https://linkedin.com/in/nhatminhdo)
+
+
 💻 **GitHub:** [github.com/MinhChoan](https://github.com/MinhChoan)
 
 ---
@@ -72,5 +81,3 @@ Easily deploy using Vercel:
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
 
 ---
-
-🔥 **Tip:** Add screenshots, animations, and maybe a light/dark mode toggle in future updates!
